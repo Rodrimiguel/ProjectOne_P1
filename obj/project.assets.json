@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProyect_Practice1\\TestProyect_Practice1.csproj",
-      "projectName": "TestProyect_Practice1",
-      "projectPath": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProyect_Practice1\\TestProyect_Practice1.csproj",
+      "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProject_Practice1\\TestProject_Practice1.csproj",
+      "projectName": "TestProject_Practice1",
+      "projectPath": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProject_Practice1\\TestProject_Practice1.csproj",
       "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProyect_Practice1\\obj\\",
+      "outputPath": "C:\\Users\\Rodrigo\\Desktop\\Proyects\\TestProject_Practice1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

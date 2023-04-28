@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace TESTPROYECT_PRACTICE1.Pages
+namespace TESTPROJECT_PRACTICE1.Pages
 {
     public class HistoryModel : PageModel
     {
